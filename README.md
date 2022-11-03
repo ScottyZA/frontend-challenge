@@ -57,3 +57,9 @@ You will also see any lint errors in the console.
 #### `yarn lint`
 
 Check and fix based on linting rules
+
+### `gitclone git@github.com:ScottyZA/backendend-challenge.git`
+
+Clone FastAPI backend in another directory and run docker-compose for backend services.
+
+Instructions found in the README.md file.
